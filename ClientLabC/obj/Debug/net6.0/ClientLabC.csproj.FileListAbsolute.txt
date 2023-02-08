@@ -1,0 +1,15 @@
+C:\Users\CLIENTE\Prova Senai\ClientLabC\obj\Debug\net6.0\ClientLabC.csproj.AssemblyReference.cache
+C:\Users\CLIENTE\Prova Senai\ClientLabC\obj\Debug\net6.0\ClientLabC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLIENTE\Prova Senai\ClientLabC\obj\Debug\net6.0\ClientLabC.AssemblyInfoInputs.cache
+C:\Users\CLIENTE\Prova Senai\ClientLabC\obj\Debug\net6.0\ClientLabC.AssemblyInfo.cs
+C:\Users\CLIENTE\Prova Senai\ClientLabC\obj\Debug\net6.0\ClientLabC.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\Prova Senai\ClientLabC\bin\Debug\net6.0\ClientLabC.exe
+C:\Users\CLIENTE\Prova Senai\ClientLabC\bin\Debug\net6.0\ClientLabC.deps.json
+C:\Users\CLIENTE\Prova Senai\ClientLabC\bin\Debug\net6.0\ClientLabC.runtimeconfig.json
+C:\Users\CLIENTE\Prova Senai\ClientLabC\bin\Debug\net6.0\ClientLabC.dll
+C:\Users\CLIENTE\Prova Senai\ClientLabC\bin\Debug\net6.0\ClientLabC.pdb
+C:\Users\CLIENTE\Prova Senai\ClientLabC\obj\Debug\net6.0\ClientLabC.dll
+C:\Users\CLIENTE\Prova Senai\ClientLabC\obj\Debug\net6.0\refint\ClientLabC.dll
+C:\Users\CLIENTE\Prova Senai\ClientLabC\obj\Debug\net6.0\ClientLabC.pdb
+C:\Users\CLIENTE\Prova Senai\ClientLabC\obj\Debug\net6.0\ClientLabC.genruntimeconfig.cache
+C:\Users\CLIENTE\Prova Senai\ClientLabC\obj\Debug\net6.0\ref\ClientLabC.dll
